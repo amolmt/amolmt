@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/amoltangade" target="blank"><img src="https://img.shields.io/twitter/follow/amoltangade?logo=twitter&style=for-the-badge" alt="amoltangade" /></a> </p>
 
-- 🔭 I’m currently working on [Quanta.ai](https://github.com/amolmt/quanta.ai)
+- 🔭 I’m currently working on [Type Rush](https://github.com/amolmt/typerush.git)
 
 - 🌱 I’m currently learning **Systems Programming with Rust.**
 
