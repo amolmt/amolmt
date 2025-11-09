@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [Type Rush](https://github.com/amolmt/typerush.git)
 
-- 🌱 I’m currently learning **Systems Programming with Rust.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/amolmt](https://github.com/amolmt)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React/JS/TS/iOS**
 
 - 📫 How to reach me **tangadeamol@outlook.com**
 
